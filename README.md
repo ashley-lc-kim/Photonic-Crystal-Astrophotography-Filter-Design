@@ -1,2 +1,2 @@
-# Photonic-Crystal-Astrophotography-Filter-Design
+# PhotonicCrystal-Astro-Filter-Design
 Design of astrophotography filter targeted to isolate the Hydrogen Alpha wavelength using photonic crystal optical structure
